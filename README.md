@@ -16,3 +16,6 @@ T(°K) = (T(°F)  - 32) * 5 / 9 + 273.15
 From Kelvin scale to the Celsius scale and Fahrenheit scale:\
 T(°C) = (T(°K) - 273.15\
 T(°F) = (T(°K) - 273.15) * 9 / 5 + 32;
+
+![image](https://github.com/Sanjeetsahu29/Temperature-converter/assets/108270460/5a365598-7bdf-404b-b3f0-a8492235760d)
+
